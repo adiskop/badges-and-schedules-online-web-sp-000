@@ -4,5 +4,3 @@ speakers= ["Edsger","Ada","Charles","Alan","Grace","Linus","Matz"]
 def budge_maker(name)
   "Hello, my name is #{name}."
 end
-
-
