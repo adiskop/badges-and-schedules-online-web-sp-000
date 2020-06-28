@@ -7,7 +7,7 @@ end
 
 def batch_badge_creator(array)
   array.each do |each|
-    message #{apple}
+    "Hello my name is  #{each}"
 
   end
 end
